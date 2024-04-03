@@ -1,4 +1,4 @@
-![image](https://github.com/DurgaV240106/4.Execution_of_NetworkCommends/assets/144870878/912e35d8-853b-4331-bf76-38a32d81eba9)# 4.Execution_of_NetworkCommands
+
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
